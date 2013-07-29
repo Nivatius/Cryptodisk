@@ -1,0 +1,40 @@
+Hier die Software-Intsllationsdateien einfügen. Lizenzbedinungen nicht ignorieren!
+
+- - - - - Kopiervorlage - - - - -
+Name: 
+Version: 
+Hersteller-Link: 
+Download-Link: 
+- - - - - 
+
+Name: GPG-Suite
+Version: 2013.07.27
+Hersteller-Link: https://gpgtools.org/
+Download-Link: https://s3.amazonaws.com/gpgtools/GPG%20Suite%20-%202013.07.27.dmg
+Lizenz: ?
+
+Name: KeePassX
+Version: 0.4.3
+Hersteller-Link: https://www.keepassx.org
+Download-Link: http://downloads.sourceforge.net/keepassx/KeePassX-0.4.3.dmg
+Lizenz: GNU General Public License version 2.0 (GPLv2)
+
+Name: Thunderbird
+Version: 
+Hersteller-Link: 
+Download-Link: 
+
+Name: Enigmail
+Version: 
+Hersteller-Link: 
+Download-Link: 
+
+Name: TorBrowser
+Version: 
+Hersteller-Link: 
+Download-Link: 
+
+Name: Truecrypt
+Version: 
+Hersteller-Link: 
+Download-Link: 

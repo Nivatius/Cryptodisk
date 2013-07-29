@@ -1,0 +1,34 @@
+Hier die Software-Intsllationsdateien einfügen. Lizenzbedinungen nicht ignorieren!
+
+- - - - - Kopiervorlage - - - - -
+Name: 
+Version: 
+Hersteller-Link: 
+Download-Link: 
+- - - - - 
+
+Name: KeePassX
+Version: 
+Hersteller-Link: https://www.keepassx.org
+Download-Link: 
+Lizenz: GNU General Public License version 2.0 (GPLv2)
+
+Name: Thunderbird
+Version: 
+Hersteller-Link: 
+Download-Link: 
+
+Name: Enigmail
+Version: 
+Hersteller-Link: 
+Download-Link: 
+
+Name: TorBrowser
+Version: 
+Hersteller-Link: 
+Download-Link: 
+
+Name: Truecrypt
+Version: 
+Hersteller-Link: 
+Download-Link: 
