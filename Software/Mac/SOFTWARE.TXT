@@ -5,36 +5,63 @@ Name:
 Version: 
 Hersteller-Link: 
 Download-Link: 
+Quellcode:
 - - - - - 
 
 Name: GPG-Suite
 Version: 2013.07.27
 Hersteller-Link: https://gpgtools.org/
 Download-Link: https://s3.amazonaws.com/gpgtools/GPG%20Suite%20-%202013.07.27.dmg
-Lizenz: ?
+Lizenz: GPL
+Quellcode: https://github.com/GPGTools/GPGTools/archive/master.zip
 
 Name: KeePassX
 Version: 0.4.3
 Hersteller-Link: https://www.keepassx.org
 Download-Link: http://downloads.sourceforge.net/keepassx/KeePassX-0.4.3.dmg
 Lizenz: GNU General Public License version 2.0 (GPLv2)
+Quellcode: https://www.keepassx.org/downloads/
 
 Name: Thunderbird
-Version: 
-Hersteller-Link: 
-Download-Link: 
+Version: 17.0.7
+Hersteller-Link: http://www.mozilla.org/de/thunderbird/
+Download-Link: https://download.mozilla.org/?product=thunderbird-17.0.7&os=osx&lang=de
+Lizenz: MPL2 http://www.mozilla.org/MPL/2.0/
+Quellcode: http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/17.0.7/source/thunderbird-17.0.7.source.tar.bz2
 
 Name: Enigmail
-Version: 
-Hersteller-Link: 
-Download-Link: 
+Version: 1.5.2
+Hersteller-Link: http://www.enigmail.net
+Download-Link: http://www.enigmail.net/download/index.php
+Lizenz: GPL
+Quellcode: http://www.enigmail.net/download/source.php
 
-Name: TorBrowser
-Version: 
-Hersteller-Link: 
-Download-Link: 
+Name: TorBrowserBundle
+Version: 0.2.3.25
+Hersteller-Link: https://www.torproject.org
+Download-Link: https://www.torproject.org/download/download-easy.html.en
+Lizenz: GPL https://www.torproject.org/docs/faq.html.en#DistributingTor
+Quellcode: https://www.torproject.org/download/download.html.en
 
 Name: Truecrypt
-Version: 
-Hersteller-Link: 
-Download-Link: 
+Version: 7.1a
+Hersteller-Link: http://www.truecrypt.org/
+Download-Link: http://www.truecrypt.org/downloads
+Lizenz: eigene Truecrypt-Lizenz http://www.truecrypt.org/legal/license
+Quellcode: http://www.truecrypt.org/downloads2
+
+
+Name: Tails
+Version: 0.19
+Hersteller-Link: https://tails.boum.org
+Download-Link: https://tails.boum.org/download/index.de.html
+Lizenz: GPL https://tails.boum.org/doc/about/license/index.de.html
+
+
+
+
+
+
+
+
+
