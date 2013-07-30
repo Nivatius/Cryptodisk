@@ -4,13 +4,23 @@ Hier die Software-Intsllationsdateien einfügen. Lizenzbedinungen nicht ignorier
 Name: 
 Version: 
 Hersteller-Link: 
-Download-Link: 
+Download-Link:
+Lizenz:
 - - - - - 
+
+
 
 Name: GPG4Win
 Version: 
 Hersteller-Link: 
 Download-Link: 
+Lizenz: GPL http://www.gpg4win.de/license-de.html
+
+Name: Tails
+Version: 
+Hersteller-Link: 
+Download-Link: 
+Lizenz: GPL https://tails.boum.org/doc/about/license/index.de.html
 
 Name: KeePassX
 Version: 
@@ -19,9 +29,11 @@ Download-Link:
 Lizenz: GNU General Public License version 2.0 (GPLv2)
 
 Name: Thunderbird
-Version: 
-Hersteller-Link: 
-Download-Link: 
+Version: 17.07
+Hersteller-Link: http://www.mozilla.org/de/thunderbird/
+Download-Link: https://download.mozilla.org/?product=thunderbird-17.0.7&os=win&lang=de
+Lizenz: MPL2 http://www.mozilla.org/MPL/2.0/
+Quellcode: http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/17.0.7/source/thunderbird-17.0.7.source.tar.bz2
 
 Name: Enigmail
 Version: 
@@ -30,10 +42,13 @@ Download-Link:
 
 Name: TorBrowser
 Version: 
-Hersteller-Link: 
-Download-Link: 
+Hersteller-Link: https://www.torproject.org
+Download-Link: https://www.torproject.org/download/download-easy.html.en
+Lizenz: GPL https://www.torproject.org/docs/faq.html.en#DistributingTor
+Quellcode: https://www.torproject.org/download/download.html.en
 
 Name: Truecrypt
 Version: 
 Hersteller-Link: 
 Download-Link: 
+Lizenz: eigene Truecrypt-Lizenz http://www.truecrypt.org/legal/license
