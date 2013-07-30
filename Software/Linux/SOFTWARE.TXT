@@ -1,34 +1,11 @@
-Hier die Software-Intsllationsdateien einfügen. Lizenzbedinungen nicht ignorieren!
+Unter Linux verwendet man am besten die mitgelieferte Paketverwaltung.
 
-- - - - - Kopiervorlage - - - - -
-Name: 
-Version: 
-Hersteller-Link: 
-Download-Link: 
-- - - - - 
+Einzige Ausnahme: Truecrypt
 
-Name: KeePassX
-Version: 
-Hersteller-Link: https://www.keepassx.org
-Download-Link: 
-Lizenz: GNU General Public License version 2.0 (GPLv2)
+Version: 7.1a
+Hersteller-Link: http://www.truecrypt.org/
+Download-Link: http://www.truecrypt.org/downloads
+Lizenz: eigene Truecrypt-Lizenz http://www.truecrypt.org/legal/license
+Quellcode: http://www.truecrypt.org/downloads2
 
-Name: Thunderbird
-Version: 
-Hersteller-Link: 
-Download-Link: 
 
-Name: Enigmail
-Version: 
-Hersteller-Link: 
-Download-Link: 
-
-Name: TorBrowser
-Version: 
-Hersteller-Link: 
-Download-Link: 
-
-Name: Truecrypt
-Version: 
-Hersteller-Link: 
-Download-Link: 
