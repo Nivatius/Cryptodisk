@@ -1,5 +1,6 @@
 Hier die Software-Intsllationsdateien einfügen. Lizenzbedinungen nicht ignorieren!
 
+
 - - - - - Kopiervorlage - - - - -
 Name: 
 Version: 
@@ -56,12 +57,4 @@ Version: 0.19
 Hersteller-Link: https://tails.boum.org
 Download-Link: https://tails.boum.org/download/index.de.html
 Lizenz: GPL https://tails.boum.org/doc/about/license/index.de.html
-
-
-
-
-
-
-
-
 
