@@ -1,39 +1,59 @@
 Hier die Software-Intsllationsdateien einfügen. Lizenzbedinungen nicht ignorieren!
 
 - - - - - Kopiervorlage - - - - -
-Name: 
-Version: 
-Hersteller-Link: 
-Download-Link: 
-- - - - - 
+Name:
+Version:
+Hersteller-Link:
+Download-Link:
+Lizenz:
+- - - - -
+
+
 
 Name: GPG4Win
-Version: 
-Hersteller-Link: 
-Download-Link: 
+Version: 2.1.1
+Hersteller-Link: http://www.gpg4win.de
+Download-Link: http://www.gpg4win.de/download-de.html
+Lizenz: GPL http://www.gpg4win.de/license-de.html
+Quellcode: http://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpg4win.git;a=snapshot;h=HEAD;sf=tgz
+
+Name: Tails
+Version: 0.19
+Hersteller-Link: https://tails.boum.org
+Download-Link: https://tails.boum.org/download/index.de.html
+Lizenz: GPL https://tails.boum.org/doc/about/license/index.de.html
 
 Name: KeePassX
-Version: 
+Version: 0.4.3
 Hersteller-Link: https://www.keepassx.org
-Download-Link: 
+Download-Link: https://www.keepassx.org/downloads/
 Lizenz: GNU General Public License version 2.0 (GPLv2)
+Quellcode: https://www.keepassx.org/downloads/
 
 Name: Thunderbird
-Version: 
-Hersteller-Link: 
-Download-Link: 
+Version: 17.0.7
+Hersteller-Link: http://www.mozilla.org/de/thunderbird/
+Download-Link: https://download.mozilla.org/?product=thunderbird-17.0.7&os=win&lang=de
+Lizenz: MPL2 http://www.mozilla.org/MPL/2.0/
+Quellcode: http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/17.0.7/source/thunderbird-17.0.7.source.tar.bz2
 
 Name: Enigmail
-Version: 
-Hersteller-Link: 
-Download-Link: 
+Version: 1.5.2
+Hersteller-Link: http://www.enigmail.net
+Download-Link: http://www.enigmail.net/download/index.php
+Lizenz: GPL
+Quellcode: http://www.enigmail.net/download/source.php
 
-Name: TorBrowser
-Version: 
-Hersteller-Link: 
-Download-Link: 
+Name: TorBrowserBundle
+Version: 0.2.3.25
+Hersteller-Link: https://www.torproject.org
+Download-Link: https://www.torproject.org/download/download-easy.html.en
+Lizenz: GPL https://www.torproject.org/docs/faq.html.en#DistributingTor
+Quellcode: https://www.torproject.org/download/download.html.en
 
 Name: Truecrypt
-Version: 
-Hersteller-Link: 
-Download-Link: 
+Version: 7.1a
+Hersteller-Link: http://www.truecrypt.org/
+Download-Link: http://www.truecrypt.org/downloads
+Lizenz: eigene Truecrypt-Lizenz http://www.truecrypt.org/legal/license
+Quellcode: http://www.truecrypt.org/downloads2
